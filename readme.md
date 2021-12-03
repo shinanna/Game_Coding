@@ -16,7 +16,7 @@
 The project is to code a game of mastermind.
 
 ## Rules
-The programm is displaying a random combination of 4 colored elements among a range of 6 definits colours : blue (B), red (R), yellow (Y), green (G), white (W) and black(B).
+The programm is displaying a random combination of 4 colored elements among a range of 4 definits colours : blue (B), red (R), yellow (Y), green (G).
 The combination can contain the same colors several times.
 The goal of the game is to find the combination displayed by the programm by making as few attempts as possible.
 
