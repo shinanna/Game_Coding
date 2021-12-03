@@ -16,7 +16,7 @@
 The project is to code a game of mastermind.
 
 ## Rules
-The programm is displaying a random code of 4 colored elements among a range of 4 definits colours : blue (B), red (R), yellow (Y), green (G).
+The programm is creating a random code of 4 colored elements among a range of 4 definits colours : blue (B), red (R), yellow (Y), green (G).
 The code can contain the same colors several times.
 The goal of the game is to find the combination displayed by the programm by making as few attempts as possible.
 
@@ -38,4 +38,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 [Repository](https://github.com/radek-deb/Project1-MasterMind-Game)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Jira](https://iron-hack.atlassian.net/jira/software/projects/MMM/boards/5)  
