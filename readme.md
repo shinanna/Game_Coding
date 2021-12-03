@@ -27,11 +27,15 @@ The order of the O and X does not match the order of the combination.
 Good luck !
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. Brainstorming.
+2. Organizing work.
+3. Coding.
+4. Putting game together.
+5. Trials of the game. 
+6. Presentation.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-What does your repository look like? Explain your folder and file structure.
+We defined and divided the tasks using Jira Software (see the link below) that we brainstormed at the begining of the project.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
