@@ -41,6 +41,6 @@ We defined and divided the tasks using Jira Software (see the link below) that w
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/shinanna/MasterMind_Game) 
+[Repository](https://github.com/shinanna/MasterMind_Game)  
 [Slides](https://docs.google.com/presentation/d/1QL0klNy47-UhiYv4tQwaom0f-TvZ5F_x/edit?usp=sharing&ouid=102785489791173764779&rtpof=true&sd=true)  
 [Jira](https://iron-hack.atlassian.net/jira/software/projects/MMM/boards/5)  
