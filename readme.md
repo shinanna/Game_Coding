@@ -23,6 +23,7 @@ The goal of the game is to find the combination displayed by the programm by mak
 To find the right code, the player tries a combination one after the other until the proposed combination matches the one in the programm, i.e. each element matches the right colour at the right spot. To allow the player find the solution, the program gives feedbacks as to whether the combination matches the one proposed by the player. It then returns information in the following ways:
 - each X corresponds to an element of the right colour, but misplaced.
 - each O corresponds to an element of the right colour and well placed.
+
 The order of the O and X does not match the order of the combination.
 Good luck !
 
